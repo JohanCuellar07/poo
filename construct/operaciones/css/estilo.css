@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #5d73ca;
+}
+
+.card {
+    margin: 15px;
+}
+
+.card-header {
+    background-color: #213446;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.list-group-item {
+    text-align: center;
+    font-size: 1.2rem;
+}
